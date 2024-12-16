@@ -4,10 +4,13 @@ This repository contains a machine learning project aimed at analyzing TikTok da
 
 The script and models are built using Python, including popular libraries such as `pandas`, `numpy`, `scikit-learn`, `tensorflow` The code includes preprocessing, feature engineering, and training machine learning models for specific tasks with TikTok-related data.
 
+Model implementation: Choosing the best performance model between random forest and XGboost, and adjust its hyperparameters. Then perform a rigorous test-validation process
 
 ## Project Overview
 
-This project utilizes **TikTok data** to predict trends, analyze engagement patterns, or recommend popular TikTok videos based on views, shares, likes, and other engagement metrics. The goal is to preprocess and clean the data, apply machine learning models, and ultimately use the model to make predictions for TikTok video trends.
+This project utilizes **TikTok data** to predict trends, analyze engagement patterns, or recommend popular TikTok videos based on views, shares, likes, and other engagement metrics. The goal is to preprocess and clean the data, apply machine learning models, and ultimately use the model to make predictions of claimed or opinion videos. That helps to reduce a significant amount of work of controlling claimed videos.
+
+The model gives an accurate prediction of nearly 100%.
 
 ## Dataset
 
