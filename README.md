@@ -8,7 +8,7 @@ Model implementation: Choosing the best performance model between random forest 
 
 ## Project Overview
 
-This project utilizes **TikTok data** to predict trends, analyze engagement patterns, or recommend popular TikTok videos based on views, shares, likes, and other engagement metrics. The goal is to preprocess and clean the data, apply machine learning models, and ultimately use the model to make predictions of claimed or opinion videos. That helps to reduce a significant amount of work of controlling claimed videos.
+This project utilizes **TikTok data** to apply machine learning models, and ultimately use the model to make predictions of claimed or opinion videos. That helps to reduce a significant amount of work of controlling claimed videos.
 
 The model gives an accurate prediction of nearly 100%.
 
